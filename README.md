@@ -57,3 +57,20 @@ knowledge distillation removes the false positive that baseline has.
 ![243](https://media.github.ford.com/user/45972/files/5ff19077-99f9-44ab-b3d9-061e024663a3)
 ![504](https://media.github.ford.com/user/45972/files/ff9c7ff0-46cb-4f0c-bd55-cddde34c3300)
 
+
+## Citation 
+
+If you find this code useful, please consider citing:  
+
+```bibtex
+@INPROCEEDINGS{10095353,
+  author={Hnewa, Mazin and Rahimpour, Alireza and Miller, Justin and Upadhyay, Devesh and Radha, Hayder},
+  booktitle={ICASSP 2023 - 2023 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Cross Modality Knowledge Distillation for Robust Pedestrian Detection in Low Light and Adverse Weather Conditions}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/ICASSP49357.2023.10095353}}
+}
+```
