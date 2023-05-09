@@ -2,6 +2,9 @@
 
 The goal of this project is to use knowledge distillation techniques to improve the performance of the object detectors (for pedestrians ) in adverse weather and low light conditions.
 
+Paper: 
+[Cross Modality Knowledge Distillation for Robust Pedestrian Detection in Low Light and Adverse Weather Conditions](https://ieeexplore.ieee.org/abstract/document/10095353)
+
 ### Knowledge Distillation based on Mean Squared Error
 ![kd-mse](https://media.github.ford.com/user/45972/files/1b476835-ef7c-459e-8a0f-518cc326664e)
 ---
