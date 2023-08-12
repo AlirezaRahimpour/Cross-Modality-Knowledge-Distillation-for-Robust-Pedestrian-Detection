@@ -5,6 +5,9 @@ The goal of this project is to use knowledge distillation techniques to improve 
 Paper: 
 [Cross Modality Knowledge Distillation for Robust Pedestrian Detection in Low Light and Adverse Weather Conditions](https://ieeexplore.ieee.org/abstract/document/10095353)
 
+<img width="466" alt="image" src="https://github.com/AlirezaRahimpour/Cross-Modality-Knowledge-Distillation-for-Robust-Pedestrian-Detection/assets/18356361/24f00c12-913c-40db-b344-98fd569a6900">
+
+
 ### Knowledge Distillation based on Mean Squared Error
 ![kd-mse](https://media.github.ford.com/user/45972/files/1b476835-ef7c-459e-8a0f-518cc326664e)
 ---
