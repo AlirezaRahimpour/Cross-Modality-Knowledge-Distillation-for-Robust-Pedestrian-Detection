@@ -8,12 +8,6 @@ Paper:
 <img width="466" alt="image" src="https://github.com/AlirezaRahimpour/Cross-Modality-Knowledge-Distillation-for-Robust-Pedestrian-Detection/assets/18356361/24f00c12-913c-40db-b344-98fd569a6900">
 
 
-### Knowledge Distillation based on Mean Squared Error
-![kd-mse](https://media.github.ford.com/user/45972/files/1b476835-ef7c-459e-8a0f-518cc326664e)
----
-
-### Knowledge Distillation based on adversarial training
-![kd-adv](https://media.github.ford.com/user/45972/files/ffaae910-99ff-48a3-9d47-2e0ea2f395a3)
 
 This implementation is based on [Faster R-CNN](https://proceedings.neurips.cc/paper/2015/file/14bfa6bb14875e45bba028a21ed38046-Paper.pdf) with ResNet50-FPN backone in Pytorch using [Seeing Through Fog](https://www.cs.princeton.edu/~fheide/AdverseWeatherFusion/) dataset.
 
